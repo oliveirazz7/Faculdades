@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <h1>Playlists</h1>
+    <p>Minhas músicas mais ouvidas atualmente</p>
+</header>
+
+<section>
+    <h2>As melhores</h2>
+    <a href="https://music.youtube.com/playlist?list=PLpLv7eKmD22WBZQSx-IDIB5B_Nw0SCvHL&si=nBUpmvicrq-8TPwp">As melhores músicas</a>
+    <h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjAC7_rlg_vtb4UkU1GpqYWXcSpKoOKuaZA&s" alt="Quavo e Takeoff"></h3>
+
+    <h2>Playlist de funk</h2>
+    <a href="https://music.youtube.com/playlist?list=PLpLv7eKmD22Uiw8OX30fUgcjzGGAs8eXC&si=2ssbAuNqIaVuILfL">Apenas funk</a>
+    <h3><img src="https://i.ytimg.com/vi/ncV3h6cT_vY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFsgXShlMA8=&rs=AOn4CLA0f9KCF9UIIFfa2BbkePmYh6cmhA" alt="MC Kevin e MC Hariel" width="500"></h3>
+
+    <h2>Playlist de trap gringo</h2>
+    <a href="https://music.youtube.com/playlist?list=PLpLv7eKmD22VSafWii4Iry-HvvLgB0OOv&si=zr0z7srtkuT0yyQl">Apenas trap gringo</a>
+    <h3><img src="https://m.media-amazon.com/images/I/61IKfTpGfWS._UF1000,1000_QL80_.jpg" alt="Pop Smoke" width="500"></h3>
+
+    <h2>Playlist de pagode e samba</h2>
+    <a href="https://music.youtube.com/playlist?list=PLpLv7eKmD22VSjwhYFOQmy8y0MbZswyIm&si=WiOjRoApFbdppfqo">Pagode e samba</a>
+    <h3>  <img src="https://akamai.sscdn.co/uploadfile/letras/fotos/d/f/f/9/dff9e37367d3144cfe402a4b00fa79c2.jpg" alt="Turma do pagode" width="500"></h3>
+    
+
+</section>
+
+
+
+</body>
+</html>
