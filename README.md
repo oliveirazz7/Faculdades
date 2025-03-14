@@ -1,2 +1,2 @@
-# Faculdades
+# Faculdade
 trabalhos da faculdade.
